@@ -15,7 +15,7 @@ I love spending my free time playing games, listening to music or chatting with 
   </a>
   <br /><br />
   <a href="https://github.com/DaviZMelo/solid-api">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DaviZMelo&repo=solid-api&theme=vision-friendly-dark" hspace="10"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DaviZMelo&repo=solid-api&theme=vision-friendly-dark&" hspace="10"/>
   </a>
   <a href="https://github.com/DaviZMelo/react-darktheme">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DaviZMelo&repo=react-darktheme&theme=vision-friendly-dark" hspace="10"/>
