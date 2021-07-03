@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Davi Melo
 
-I'm a Fullstack Typescript/Javascript developer with main stacks on React, Node & Electron.
+I'm a Fullstack Typescript/Javascript developer with main stacks on React, React Native, NodeJS & Electron.
 
 I love spending my free time playing games, listening to music or chatting with my friends. I'm currently venturing into this vast world of Javascript.
 
