@@ -34,8 +34,6 @@ I love spending my free time playing games, listening to music or chatting with 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 &nbsp;
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 &nbsp;
@@ -80,23 +78,3 @@ I love spending my free time playing games, listening to music or chatting with 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviZMelo&theme=vision-friendly-dark" hspace="10"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DaviZMelo&theme=vision-friendly-dark" hspace="10"/>
 </div>
-
-
-
-
-
-
-<!--
-**DaviZMelo/DaviZMelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
